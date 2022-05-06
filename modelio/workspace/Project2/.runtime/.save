@@ -1,0 +1,16 @@
+
+#Tue Apr 19 14:50:25 CEST 2022
+
+org.modelio.app.diagram.editor.OpenedDiagrams4='diagramaComponentes' {e44e953c-f166-4eac-a1a2-d8f88c1371aa} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='DAOUsuario' {7546badc-978b-4845-a5ae-7235f03b7d32} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='DAOPelicula' {1909cbc5-9a8e-489b-a5d7-bbfd54ec4be1} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='DAOLibro' {059ed1a1-18cb-40c2-a5ce-07dff32fd3c3} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='DAOSala' {07540ea9-fd25-4448-8f29-b91b43b2e720} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams12='consulta lista libros' {7fb7a149-6f6d-4d3b-986d-b523a5567204} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams11='consulta lista peliculas' {9cce5bbe-bda7-40a9-a425-a07f75d3c4a7} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams10='Devolver Libro/Pelicula' {1022f605-eaf0-4045-990a-0b8e992c0c5e} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams9='renuevaPrestamo' {e6dbb1d5-a18f-45e1-af0c-d997361d33ce} Standard.SequenceDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams8='Modelo del dominio' {c07d3b31-bc41-459f-bac2-a155267be875} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams7='Pelicula' {d46d2889-b133-4fd7-99bc-abf2e04f0c7f} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='Libro' {c8b90030-2509-457a-920e-a916bca0a261} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='Usuario' {0a4ce6f8-3925-4a69-b6a2-908e663ea3c3} Standard.ClassDiagram

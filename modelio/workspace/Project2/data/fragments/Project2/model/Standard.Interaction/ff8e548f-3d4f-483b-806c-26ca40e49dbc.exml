@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="consulta lista libros" version="4">
+  <OBJECT>
+    <ID name="consulta lista libros" mc="Standard.Interaction" uid="ff8e548f-3d4f-483b-806c-26ca40e49dbc"/>
+    <PID name="project2" mc="Standard.Package" uid="b83323f2-6cfd-495e-bef8-50c85f8bed41"/>
+    <ATTRIBUTES>
+      <ATT name="IsReentrant">false</ATT>
+      <ATT name="Name"><![CDATA[consulta lista libros]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedCollaboration">
+        <OBJECT>
+          <ID name="locals" mc="Standard.Collaboration" uid="3bd912e8-4c18-464b-bbbb-82c8286fe368"/>
+          <ATTRIBUTES>
+            <ATT name="IsConcurrent">false</ATT>
+            <ATT name="IsAbstract">false</ATT>
+            <ATT name="IsLeaf">false</ATT>
+            <ATT name="IsRoot">false</ATT>
+            <ATT name="Visibility">Public</ATT>
+            <ATT name="Name"><![CDATA[locals]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES></DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="consulta lista libros" mc="Standard.SequenceDiagram" uid="7fb7a149-6f6d-4d3b-986d-b523a5567204"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
